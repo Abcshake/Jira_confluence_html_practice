@@ -1,0 +1,15 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+}
+
+.wrapper {
+	width: 85%;
+	max-width: 1020px;
+	margin: 0 auto;
+}
+
+img {
+    display: inline;
+}
+
